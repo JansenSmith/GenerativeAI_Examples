@@ -1,1 +1,1 @@
-# GenerativeAI_Examples
+# GenerativeAI_Workflows
